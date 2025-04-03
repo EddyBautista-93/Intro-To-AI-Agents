@@ -1,4 +1,4 @@
-# Intro To AI Agents 
+# Intro to AI Agents 
 
 Welcome to the **Intro to AI Agents Workshop!** 
 
@@ -33,7 +33,10 @@ Gradio UI | Test agent prompts with different tool sets
 
 ## Try it yourself 
 Once you’ve completed the notebook, launch the Gradio app and test prompts like:
-•	“Plan a tech meetup for 50 people with swag and catering in San Antonio.”
-•	“Generate a LinkedIn post and flyer image for an AI agent workshop.”
-•	“Find me an indoor venue with Wi-Fi and give me a cost estimate.”
+-	“Plan a tech meetup for 50 people with swag and catering in San Antonio.”
+-	“Generate a LinkedIn post and flyer image for an AI agent workshop.”
+-	“Find me an indoor venue with Wi-Fi and give me a cost estimate.”
+
+## Requirements
+You will need a [HuggingFace](https://huggingface.co/) account to have access tokens to run this notebook outside of the workshop
 
